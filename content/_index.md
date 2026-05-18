@@ -1,5 +1,5 @@
 ---
-title: "_index"
+title: "home"
 draft: false
 ---
 wedding videographer in northern tasmania.
